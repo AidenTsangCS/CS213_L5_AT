@@ -1,0 +1,283 @@
+
+########## NEW BATTLE ##########
+
+Army 1 Stats before the Battle
+Creature        Type           Strength     Health
+Aldric          bahamut             104         86
+Brynn           nuggle               68         68
+Cassia          macara              156         53
+Dorian          ceffyl               88        134
+Elowen          ceffyl              149         64
+Faelan          ceffyl              127        158
+Grisha          nuggle               86        123
+Hollis          macara               61         85
+Isolde          ceffyl               58        107
+Jorvik          ceffyl              144         67
+Total health of Army 1: 945
+
+Army 2 Stats before the Battle
+Creature        Type           Strength     Health
+Kaelith         ceffyl               80         47
+Lunara          ceffyl               94        126
+Morwen          macara               87         58
+Nyx             macara              135         88
+Orrin           bahamut             153        141
+Petra           ceffyl              126        135
+Quillon         nuggle               87         70
+Ragnar          nuggle               60         66
+Seren           bahamut              84         67
+Theron          ceffyl              117        111
+Total health of Army 2: 909
+
+--- Duel #1: Aldric the bahamut (Army 1) vs Kaelith the ceffyl (Army 2) ---
+Aldric the bahamut attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Aldric the bahamut              51  Army 1   Kaelith the ceffyl                         0  Army 2  
+>> Aldric the bahamut defeated Kaelith the ceffyl!
+
+--- Duel #2: Brynn the nuggle (Army 1) vs Lunara the ceffyl (Army 2) ---
+Brynn the nuggle attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Brynn the nuggle                24  Army 1   Lunara the ceffyl                        102  Army 2  
+Lunara the ceffyl               34  Army 2   Brynn the nuggle                          34  Army 1  
+Brynn the nuggle                20  Army 1   Lunara the ceffyl                         82  Army 2  
+Lunara the ceffyl               11  Army 2   Brynn the nuggle                          23  Army 1  
+Brynn the nuggle                58  Army 1   Lunara the ceffyl                         24  Army 2  
+Lunara the ceffyl               82  Army 2   Brynn the nuggle                           0  Army 1  
+>> Lunara the ceffyl defeated Brynn the nuggle!
+
+--- Duel #3: Cassia the macara (Army 1) vs Morwen the macara (Army 2) ---
+Cassia the macara attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Cassia the macara              132  Army 1   Morwen the macara                          0  Army 2  
+>> Cassia the macara defeated Morwen the macara!
+
+--- Duel #4: Dorian the ceffyl (Army 1) vs Nyx the macara (Army 2) ---
+Dorian the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Dorian the ceffyl               82  Army 1   Nyx the macara                             6  Army 2  
+Nyx the macara                  15  Army 2   Dorian the ceffyl                        119  Army 1  
+Nyx the macara                  45  Army 2   Dorian the ceffyl                         74  Army 1  
+Dorian the ceffyl               19  Army 1   Nyx the macara                             0  Army 2  
+>> Dorian the ceffyl defeated Nyx the macara!
+
+--- Duel #5: Elowen the ceffyl (Army 1) vs Orrin the bahamut (Army 2) ---
+Orrin the bahamut attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Orrin the bahamut               72  Army 2   Elowen the ceffyl                          0  Army 1  
+>> Orrin the bahamut defeated Elowen the ceffyl!
+
+--- Duel #6: Faelan the ceffyl (Army 1) vs Petra the ceffyl (Army 2) ---
+Faelan the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Faelan the ceffyl               20  Army 1   Petra the ceffyl                         115  Army 2  
+Petra the ceffyl                68  Army 2   Faelan the ceffyl                         90  Army 1  
+Faelan the ceffyl              125  Army 1   Petra the ceffyl                           0  Army 2  
+>> Faelan the ceffyl defeated Petra the ceffyl!
+
+--- Duel #7: Grisha the nuggle (Army 1) vs Quillon the nuggle (Army 2) ---
+Grisha the nuggle attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Grisha the nuggle               86  Army 1   Quillon the nuggle                         0  Army 2  
+>> Grisha the nuggle defeated Quillon the nuggle!
+
+--- Duel #8: Hollis the macara (Army 1) vs Ragnar the nuggle (Army 2) ---
+Hollis the macara attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Hollis the macara               10  Army 1   Ragnar the nuggle                         56  Army 2  
+Hollis the macara               45  Army 1   Ragnar the nuggle                         11  Army 2  
+Ragnar the nuggle               49  Army 2   Hollis the macara                         36  Army 1  
+Hollis the macara                2  Army 1   Ragnar the nuggle                          9  Army 2  
+Hollis the macara               55  Army 1   Ragnar the nuggle                          0  Army 2  
+>> Hollis the macara defeated Ragnar the nuggle!
+
+--- Duel #9: Isolde the ceffyl (Army 1) vs Seren the bahamut (Army 2) ---
+Isolde the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Isolde the ceffyl               26  Army 1   Seren the bahamut                         41  Army 2  
+Seren the bahamut               74  Army 2   Isolde the ceffyl                         33  Army 1  
+Isolde the ceffyl               24  Army 1   Seren the bahamut                         17  Army 2  
+Seren the bahamut               27  Army 2   Isolde the ceffyl                          6  Army 1  
+Isolde the ceffyl               40  Army 1   Seren the bahamut                          0  Army 2  
+>> Isolde the ceffyl defeated Seren the bahamut!
+
+--- Duel #10: Jorvik the ceffyl (Army 1) vs Theron the ceffyl (Army 2) ---
+Theron the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Theron the ceffyl               80  Army 2   Jorvik the ceffyl                          0  Army 1  
+>> Theron the ceffyl defeated Jorvik the ceffyl!
+
+Army 1 Stats after the Battle
+Creature        Type           Strength     Health
+Aldric          bahamut             104         86
+Brynn           nuggle               68          0
+Cassia          macara              156         53
+Dorian          ceffyl               88         74
+Elowen          ceffyl              149          0
+Faelan          ceffyl              127         90
+Grisha          nuggle               86        123
+Hollis          macara               61         36
+Isolde          ceffyl               58          6
+Jorvik          ceffyl              144          0
+Total health of Army 1: 468
+
+Army 2 Stats after the Battle
+Creature        Type           Strength     Health
+Kaelith         ceffyl               80          0
+Lunara          ceffyl               94         24
+Morwen          macara               87          0
+Nyx             macara              135          0
+Orrin           bahamut             153        141
+Petra           ceffyl              126          0
+Quillon         nuggle               87          0
+Ragnar          nuggle               60          0
+Seren           bahamut              84          0
+Theron          ceffyl              117        111
+Total health of Army 2: 276
+
+>>> Army 1 wins the battle! <<<
+Army 1 overall health: 468
+Army 2 overall health: 276
+
+########## NEW BATTLE ##########
+
+Army 1 Stats before the Battle
+Creature        Type           Strength     Health
+Aldric          ceffyl              129         92
+Brynn           macara               88        104
+Cassia          nuggle               81        107
+Dorian          ceffyl              157        125
+Elowen          bahamut             147        148
+Faelan          macara              149        132
+Grisha          macara               91        120
+Hollis          bahamut              60         42
+Isolde          ceffyl               44         56
+Jorvik          nuggle              133        138
+Total health of Army 1: 1064
+
+Army 2 Stats before the Battle
+Creature        Type           Strength     Health
+Kaelith         nuggle              127        134
+Lunara          bahamut             144         84
+Morwen          nuggle              111        160
+Nyx             ceffyl               48         56
+Orrin           bahamut              46         89
+Petra           macara              105         97
+Quillon         bahamut              98         66
+Ragnar          bahamut              75        115
+Seren           macara              117         62
+Theron          ceffyl              146        113
+Total health of Army 2: 976
+
+--- Duel #1: Aldric the ceffyl (Army 1) vs Kaelith the nuggle (Army 2) ---
+Aldric the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Aldric the ceffyl              116  Army 1   Kaelith the nuggle                        18  Army 2  
+Kaelith the nuggle               2  Army 2   Aldric the ceffyl                         90  Army 1  
+Aldric the ceffyl               39  Army 1   Kaelith the nuggle                         0  Army 2  
+>> Aldric the ceffyl defeated Kaelith the nuggle!
+
+--- Duel #2: Brynn the macara (Army 1) vs Lunara the bahamut (Army 2) ---
+Lunara the bahamut attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Lunara the bahamut             109  Army 2   Brynn the macara                           0  Army 1  
+>> Lunara the bahamut defeated Brynn the macara!
+
+--- Duel #3: Cassia the nuggle (Army 1) vs Morwen the nuggle (Army 2) ---
+Morwen the nuggle attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Morwen the nuggle               30  Army 2   Cassia the nuggle                         77  Army 1  
+Cassia the nuggle               33  Army 1   Morwen the nuggle                        127  Army 2  
+Morwen the nuggle               97  Army 2   Cassia the nuggle                          0  Army 1  
+>> Morwen the nuggle defeated Cassia the nuggle!
+
+--- Duel #4: Dorian the ceffyl (Army 1) vs Nyx the ceffyl (Army 2) ---
+Nyx the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Nyx the ceffyl                  45  Army 2   Dorian the ceffyl                         80  Army 1  
+Dorian the ceffyl               25  Army 1   Nyx the ceffyl                            31  Army 2  
+Nyx the ceffyl                  26  Army 2   Dorian the ceffyl                         54  Army 1  
+Dorian the ceffyl               25  Army 1   Nyx the ceffyl                             6  Army 2  
+Nyx the ceffyl                  25  Army 2   Dorian the ceffyl                         29  Army 1  
+Dorian the ceffyl               29  Army 1   Nyx the ceffyl                             0  Army 2  
+>> Dorian the ceffyl defeated Nyx the ceffyl!
+
+--- Duel #5: Elowen the bahamut (Army 1) vs Orrin the bahamut (Army 2) ---
+Elowen the bahamut attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Elowen the bahamut              22  Army 1   Orrin the bahamut                         67  Army 2  
+Orrin the bahamut               34  Army 2   Elowen the bahamut                       114  Army 1  
+Elowen the bahamut              66  Army 1   Orrin the bahamut                          1  Army 2  
+Orrin the bahamut               20  Army 2   Elowen the bahamut                        94  Army 1  
+Elowen the bahamut             177  Army 1   Orrin the bahamut                          0  Army 2  
+>> Elowen the bahamut defeated Orrin the bahamut!
+
+--- Duel #6: Faelan the macara (Army 1) vs Petra the macara (Army 2) ---
+Petra the macara attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Petra the macara                84  Army 2   Faelan the macara                         48  Army 1  
+Petra the macara                 3  Army 2   Faelan the macara                         45  Army 1  
+Faelan the macara               80  Army 1   Petra the macara                          17  Army 2  
+Faelan the macara               54  Army 1   Petra the macara                           0  Army 2  
+>> Faelan the macara defeated Petra the macara!
+
+--- Duel #7: Grisha the macara (Army 1) vs Quillon the bahamut (Army 2) ---
+Grisha the macara attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Grisha the macara               47  Army 1   Quillon the bahamut                       19  Army 2  
+Grisha the macara               44  Army 1   Quillon the bahamut                        0  Army 2  
+>> Grisha the macara defeated Quillon the bahamut!
+
+--- Duel #8: Hollis the bahamut (Army 1) vs Ragnar the bahamut (Army 2) ---
+Hollis the bahamut attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Hollis the bahamut              90  Army 1   Ragnar the bahamut                        25  Army 2  
+Ragnar the bahamut              34  Army 2   Hollis the bahamut                         8  Army 1  
+Hollis the bahamut              33  Army 1   Ragnar the bahamut                         0  Army 2  
+>> Hollis the bahamut defeated Ragnar the bahamut!
+
+--- Duel #9: Isolde the ceffyl (Army 1) vs Seren the macara (Army 2) ---
+Seren the macara attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Seren the macara                87  Army 2   Isolde the ceffyl                          0  Army 1  
+>> Seren the macara defeated Isolde the ceffyl!
+
+--- Duel #10: Jorvik the nuggle (Army 1) vs Theron the ceffyl (Army 2) ---
+Theron the ceffyl attacks first!
+Attacker                    Damage  Army     Defender                   Defender's Health  Army    
+Theron the ceffyl              112  Army 2   Jorvik the nuggle                         26  Army 1  
+Jorvik the nuggle               12  Army 1   Theron the ceffyl                        101  Army 2  
+Theron the ceffyl               40  Army 2   Jorvik the nuggle                          0  Army 1  
+>> Theron the ceffyl defeated Jorvik the nuggle!
+
+Army 1 Stats after the Battle
+Creature        Type           Strength     Health
+Aldric          ceffyl              129         90
+Brynn           macara               88          0
+Cassia          nuggle               81          0
+Dorian          ceffyl              157         29
+Elowen          bahamut             147         94
+Faelan          macara              149         45
+Grisha          macara               91        120
+Hollis          bahamut              60          8
+Isolde          ceffyl               44          0
+Jorvik          nuggle              133          0
+Total health of Army 1: 386
+
+Army 2 Stats after the Battle
+Creature        Type           Strength     Health
+Kaelith         nuggle              127          0
+Lunara          bahamut             144         84
+Morwen          nuggle              111        127
+Nyx             ceffyl               48          0
+Orrin           bahamut              46          0
+Petra           macara              105          0
+Quillon         bahamut              98          0
+Ragnar          bahamut              75          0
+Seren           macara              117         62
+Theron          ceffyl              146        101
+Total health of Army 2: 374
+
+>>> Army 1 wins the battle! <<<
+Army 1 overall health: 386
+Army 2 overall health: 374
